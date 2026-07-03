@@ -1164,7 +1164,7 @@
 	{
 		"version": "1.2.33",
 		"files": {
-			"scripts/cmds/shortcut.js": "fix `shortcut start xxx` not work",
+			"scripts/cmds/shortcut.js": "fix `shortcut start xxx` ",
 			"bot/handler/handlerEvents.js": "code optimization",
 			"bot/login/loadScripts.js": "code optimization",
 			"bot/login/login.js": "code optimization",
