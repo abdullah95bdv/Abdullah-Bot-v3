@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="Hinata Bot Banner" width="100%">
+  <img src="https://i.imgur.com/Mmo26FF.jpeg" alt="𝐆𝐂 𝐊𝐈𝐍𝐆👑 Bot Banner" width="100%">
 </p>
 
 <h1 align="center">
   <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="28px" alt="icon">
-  Hinata Bot — Facebook Messenger Chatbot by MahMUD
+  𝐆𝐂 𝐊𝐈𝐍𝐆👑 Bot — Facebook Messenger Chatbot by 𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇
 </h1>
 
 <p align="center">
-  <b>• Facebook Messenger Bot | Auto Reply Bot | AI Chatbot | Hinata Bot V3</b><br>
+  <b>• Facebook Messenger Bot | Auto Reply Bot | AI Chatbot | 𝐆𝐂 𝐊𝐈𝐍𝐆👑</b><br>
   <i>A powerful, free, open-source Facebook Messenger bot built with Node.js</i>
 </p>
 
@@ -112,10 +112,10 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
   <a href="(https://www.facebook.com/share/16bqv5TCvr/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://wa.me/01823339492?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
+  <a href="https://wa.me/01823339492?text=Hi%20𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:abdullah955366@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
+  <a href="mailto:abdullah955366@gmail.com?subject=Hello%20𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇&body=Hi%20𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://mahmud-exe.onrender.com/" target="_blank">
@@ -128,21 +128,21 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
 ## 👤 Credits
 
 **Developer:** [MahMUD](https://mahmud-exe.onrender.com/)  
-**Project:** Hinata-Bot-V3  
+**Project:** 𝐆𝐂 𝐊𝐈𝐍𝐆👑  
 **GitHub:** [github.com/mahmudx7/Hinata-Bot-V3](https://github.com/mahmudx7/Hinata-Bot-V3)
 
 <p align="center">
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
   <br>
-  <b>MahMUD</b><br>
-  <a href="https://mahmud-exe.onrender.com/">mahmud-exe.onrender.com</a>
+  <b>𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇</b><br>
+  <a href="https://𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇-exe.onrender.com/">𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇-exe.onrender.com</a>
 </p>
 
 ---
 
 ## 🔍 Keywords
 
-> Facebook Messenger Bot · Facebook Auto Reply Bot · Hinata Bot · Hinata Bot V3 · Free Facebook Bot · Node.js Messenger Bot · AI Chatbot Facebook · SimSimi Bot · Bangla Facebook Bot · Open Source Messenger Bot · MahMUD Bot · Facebook Bot 2024 · Messenger Automation · Free Chatbot · Mobile Bot Setup · Termux Facebook Bot
+> Facebook Messenger Bot · Facebook Auto Reply Bot · 𝐆𝐂 𝐊𝐈𝐍𝐆👑 · 𝐆𝐂 𝐊𝐈𝐍𝐆👑 · Free Facebook Bot · Node.js Messenger Bot · AI Chatbot Facebook · SimSimi Bot · Bangla Facebook Bot · Open Source Messenger Bot · 𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇 Bot · Facebook Bot 2024 · Messenger Automation · Free Chatbot · Mobile Bot Setup · Termux Facebook Bot
 
 ---
 
