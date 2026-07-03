@@ -109,13 +109,13 @@ Built with passion by **MahMUD** — a full-stack developer specializing in Face
 Found a bug? Need a custom feature or a private Messenger bot built for you? Reach out directly!
 
 <div align="left">
-  <a href="https://www.facebook.com/mahmudexe" target="_blank">
+  <a href="(https://www.facebook.com/share/16bqv5TCvr/)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
+  <a href="https://wa.me/01823339492?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="mailto:mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
+  <a href="mailto:abdullah955366@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://mahmud-exe.onrender.com/" target="_blank">
