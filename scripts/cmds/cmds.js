@@ -2,7 +2,7 @@ const axios = require("axios");
 
 const baseApiUrl = async () => {
         const base = await axios.get("https://raw.githubusercontent.com/mahmudx7/HINATA/main/baseApiUrl.json");
-        return base.data.mahmud;
+        return base.data.𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇;
 };
 
 module.exports = {
@@ -10,7 +10,7 @@ module.exports = {
                 name: "cmdstore",
                 aliases: ["cmds", "cs"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇",
                 countDown: 5,
                 role: 0,
                 category: "utility",
