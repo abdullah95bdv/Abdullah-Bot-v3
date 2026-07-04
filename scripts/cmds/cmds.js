@@ -29,13 +29,14 @@ module.exports = {
                         notFound: "❌ | No \"%1\" commands found.",
                         notYourReply: "❌ | not your reply baby 🐸",
                         invalidSelection: "❌ | Invalid selection! Please enter a valid number.",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× API error: %1. Contact 𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇 for help.\n•WhatsApp: 01823339492".\n•Facebook:"https://www.facebook.com/share/16bqv5TCvr/"
+        
                 },
                 vi: {
                         notFound: "❌ | Không tìm thấy lệnh \"%1\".",
                         notYourReply: "❌ | Không phải phản hồi của bạn đâu cưng 🐸",
                         invalidSelection: "❌ | Lựa chọn không hợp lệ!",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× API error: %1. Contact 𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇 for help.\n•WhatsApp: 01823339492".\n•Facebook:"https://www.facebook.com/share/16bqv5TCvr/"
                 }
         },
 
